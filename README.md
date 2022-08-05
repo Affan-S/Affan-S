@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Affan-S
-- 👀 I’m interested in C# .net WinForms and WPF with MySQL backend, Node.js with MongoDB and MySQL backend.
-- 🌱 I’m currently learning React.js
+- 👀 I’m interested in C# .net WinForms and WPF with MySQL backend, Node.js, React.js, Sanity CMS and MongoDB backend. I have experience in writing APIs in Node.js.
+- 🌱 I’m currently learning QA Testing.
 - 💞️ I’m looking to collaborate on Remote Jobs
 - 📫 How to reach me affanshery043@gmail.com
 
