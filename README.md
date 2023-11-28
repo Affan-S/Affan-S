@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Affan-S
-- 👀 I’m interested in C# .net WinForms and WPF with MySQL backend, Node.js, React.js, Sanity CMS, and MongoDB backend.
-- 👀 Java Springboot and Redux
-- 🌱 I’m currently working with Java Springboot
+- 👋 Hi, I’m @Affan-S - Software Engineer @ DevisersTech, Johar Town, Lahore
+- 👀 I’m interested in Java Spring Boot, Redux, Docker, MERN Stack, C# .net WinForms, and WPF with MySQL backend, Sanity CMS, and MongoDB.
+- 🌱 I’m currently working with Java Spring Framework with Redux.
 - 📫 How to reach me affanshery043@gmail.com
